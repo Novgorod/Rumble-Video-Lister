@@ -13,7 +13,7 @@ The tool displays a metadata list of discovered videos, which can be optionally 
 - Title (for restricted/anonymized videos this only includes a sequential numeric ID)
 - Canonical video URL (for restricted/anonymized videos the embed URL, since the canonical URL appears as private)
 
-In addition, the tool allows searching for privated video URLs (no metadata are available) but at a significantly slower rate, since this is only possible by querying the canonical (rather than the embed) URL, which has much tighter rate limits.
+In addition, the tool allows searching for (fully) privated video URLs (no metadata are available) but at a significantly slower rate, since this is only possible by querying the canonical (rather than the embed) URL, which has much tighter rate limits.
 
 ## Usage
 
